@@ -32,7 +32,8 @@ Education: Passionate about self-learning and working in the field of technology
 Fields_of_interests:
    "Data Science",
    "Machine Learning",
-   "Web Development"
+   "Web Development",
+   "Data Analyst"
   
 Technologies I Use:
    - "Python, SQL, Data Visualization, Web Development Tools"
@@ -42,10 +43,10 @@ Goals: My goal is to use technology to solve real-world problems and contribute 
 Collaboration: I'm open to collaborating on exciting projects or discussing new ideas. If you have a project in mind or want to connect about technology and innovation, feel free to reach out to me!
 
 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/darshan-patil-958436297/)
+- [LinkedIn](https://www.linkedin.com/in/idarshanpatil)
 - [GitHub](https://github.com/idarshanpatil)
-- [Instagram](https://www.instagram.com/patil_darshan_272/profilecard/?igsh=bmxnbzMzempycno2)
-- Email: patildarshan272@gmail.com
+- [Instagram](https://www.instagram.com/patil_darshan_272)
+- Email: (patildarshan272@gmail.com)
 
 Thank you for visiting my profile. Let's connect and create something amazing together!
 ```
